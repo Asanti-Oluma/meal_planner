@@ -39,7 +39,7 @@ A Flutter meal planning application built using Bloc state management and Dio fo
 
 <img src="screenshots/remove.png" width="250">
 
-<img src="screenshots/no_meal.png" width="250">
+<img src="screenshots/No_meal.png" width="250">
 
 <img src="screenshots/planned_meal.png" width="250">
 
